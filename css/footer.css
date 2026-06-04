@@ -52,12 +52,12 @@ footer {
             color: var(--primary-footer-text-color);
             font-family: 'Open Sans', sans-serif;
             font-weight: 600;
-            font-size: 12px;
+            font-size: 10px;
             padding-right: 30px;
         }
         b {
             color: var(--primary-text-color);
-            font-size: 12px;
+            font-size: 10px;
         }
     }
     .footer-page-counter {
